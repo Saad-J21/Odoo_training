@@ -76,6 +76,6 @@ Both are customizable, however, if the company needs **advanced features** and *
 
 # References
 
-[https://www.odoo.com/documentation/17.0/developer/tutorials/server_framework_101/01_architecture.html](https://www.odoo.com/documentation/17.0/developer/tutorials/server_framework_101/01_architecture.html)
-[https://www.reddit.com/r/Odoo/comments/17crtnh/can_community_edition_match_the_features_of/?rdt=63420](https://www.reddit.com/r/Odoo/comments/17crtnh/can_community_edition_match_the_features_of/?rdt=63420)
-ChatGPT
+1. [https://www.odoo.com/documentation/17.0/developer/tutorials/server_framework_101/01_architecture.html](https://www.odoo.com/documentation/17.0/developer/tutorials/server_framework_101/01_architecture.html)
+2. [https://www.reddit.com/r/Odoo/comments/17crtnh/can_community_edition_match_the_features_of/?rdt=63420](https://www.reddit.com/r/Odoo/comments/17crtnh/can_community_edition_match_the_features_of/?rdt=63420)
+3. ChatGPT
